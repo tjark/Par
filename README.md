@@ -14,4 +14,5 @@ some of them have found an answer (i.e., sat or unsat).
 
     BENCHMARK is the name of the benchmark file.
 
-The wrapped solvers were taken from SMT-COMP 2018.
+The wrapped solvers were taken from SMT-COMP 2018. They are **not**
+included in this repository and must be downloaded separately.
